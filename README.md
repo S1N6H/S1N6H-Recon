@@ -26,4 +26,10 @@ chmod +x S1N6H.sh
 
 Thanks to <b>Mayur</b> (https://www.linkedin.com/in/th3cyb3rc0p/) and <b>Hemant</b> (https://www.linkedin.com/in/hemantsolo/)
 
+
+
+<h2><b>Who am I<b></h2>
+  Hi, I am Harinder Singh. I am a part time bug bounty hunter or you can say Cyber Security Researcher. I am currently acknowledged by 93+ Companies including Google ,Blackbeery ,Redhat ,Philips and many more. You can find more about me at https://www.linkedin.com/in/lambardar 
+  
+
 Need help ping me at  <b> https://www.instagram.com/bug.bounty.meme  </b>
