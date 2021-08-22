@@ -1,7 +1,7 @@
 <h2><b>Welcome to the S1N6H-Recon</h2></b>
 
 <b>Description</b>
-Basic Recon tool for beginners. Especially those who faces issue on how to recon or what all tools to use. Will try to add at least 10 more tools currently use 5 sources to gather domains. 
+Basic Recon tool for beginners. Especially those who faces issue on how to recon or what all tools to use. Will try to add at least 10 more tools currently use 7 sources to gather domains. 
 
 <b>How to use</b>
 
@@ -21,6 +21,8 @@ chmod +x S1N6H.sh
 3. Assetfinder (https://github.com/tomnomnom/assetfinder)
 4. Amass (https://github.com/OWASP/Amass)
 5. Sublist3r (https://github.com/aboul3la/Sublist3r)
+6. Gau (GO111MODULE=on go get -u -v github.com/lc/gau)
+7. Subbrute (https://github.com/TheRook/subbrute)
 
 Thanks to <b>Mayur</b> (https://www.linkedin.com/in/th3cyb3rc0p/) and <b>Hemant</b> (https://www.linkedin.com/in/hemantsolo/)
 
