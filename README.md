@@ -1,6 +1,6 @@
 Welcome to the S1N6H-Recon
 
-Description
+<b>Description<b>
 Basic Recon tool for beginners. Especially those who faces issue on how to recon or what all tools to use. Will try to add at least 10 more tools currently use 5 sources to gather domains. 
 
 Tools used
