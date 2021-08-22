@@ -3,6 +3,17 @@
 <b>Description</b>
 Basic Recon tool for beginners. Especially those who faces issue on how to recon or what all tools to use. Will try to add at least 10 more tools currently use 5 sources to gather domains. 
 
+<b>How to use</b>
+
+<b>Please setup tools listed before using the script</b>
+
+git clone https://github.com/S1N6H/S1N6H-Recon
+
+chmod +x S1N6H.sh
+
+./S1N6H.sh example.comm
+
+
 <b>Tools used</B>
 
 1. Findomain (https://github.com/Findomain/Findomain)
