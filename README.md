@@ -11,7 +11,7 @@ git clone https://github.com/S1N6H/S1N6H-Recon
 
 chmod +x S1N6H.sh
 
-./S1N6H.sh example.comm
+./S1N6H.sh example.com
 
 
 <b>Tools used</B>
