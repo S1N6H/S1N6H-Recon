@@ -1,7 +1,7 @@
 <h2><b>Welcome to the S1N6H-Recon</h2></b>
 
 <b>Description</b>
-Basic Recon tool for beginners. Especially those who faces issue on how to recon or what all tools to use. Will try to add atleast 10 more tools currently use 7 sources to gather domains. 
+Basic Recon tool for beginners. Especially those who faces issue on how to recon or what all tools to use. Will try to add atleast 10 more tools currently use 7 sources to gather domains.Currenlty uses below mentioned tools and also sort live domains using HttpX.
 
 <b>How to use</b>
 
