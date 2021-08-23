@@ -14,6 +14,11 @@ chmod +x S1N6H.sh
 ./S1N6H.sh example.com
 
 
+<b>Issue</b>
+Add path for subbrute.
+If it takes long remove amass.
+
+
 <b>Tools used</B>
 
 1. Findomain (https://github.com/Findomain/Findomain)
@@ -23,6 +28,7 @@ chmod +x S1N6H.sh
 5. Sublist3r (https://github.com/aboul3la/Sublist3r)
 6. Gau (GO111MODULE=on go get -u -v github.com/lc/gau)
 7. Subbrute (https://github.com/TheRook/subbrute)
+8. HttpX (https://github.com/projectdiscovery/httpx)
 
 Thanks to <b>Mayur</b> (https://www.linkedin.com/in/th3cyb3rc0p/) and <b>Hemant</b> (https://www.linkedin.com/in/hemantsolo/)
 
